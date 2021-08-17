@@ -2,6 +2,7 @@ NglShaderIncludePlugin
 ====
 
 プロジェクトルート/Plugin ディレクトリに配置することで, プロジェクトルート/Shaders ディレクトリをShaderIncludePathに自動追加するUE4プラグイン.
+日本語の説明はブログ https://nagakagachi.hatenablog.com/entry/2021/08/18/013145
 
 A UE4 plugin that automatically adds the project root/Shaders directory to the ShaderIncludePath by placing it in the project root/Plugin directory.
 
